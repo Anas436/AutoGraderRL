@@ -43,7 +43,7 @@ The environment checks submissions through **property-based grading** with rando
    ```   
 3. **Clone the repository:**
    ```
-   git clone
+   git clone https://github.com/Anas436/AutoGraderRL.git
    ```
 4. **Install Dependencies:**
    ```
@@ -51,7 +51,7 @@ The environment checks submissions through **property-based grading** with rando
    ```
 5. **Navigate to the project directory:**
    ```
-   cd
+   cd AutoGraderRL
    ```
 6. **Create a .env file:**
    ```
@@ -84,4 +84,5 @@ Pass: True
 Summary: 4/10 passed (40.0%), time 92.4s
 Saved results.json
 ```
+
 
